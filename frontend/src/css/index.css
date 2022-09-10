@@ -1,0 +1,91 @@
+* {
+  font-family: Poppins, Geneva, Tahoma, sans-serif;
+
+  --yellow: #ffcc00;
+  --gray: #bfbfbf;
+  --purple: #a46eae;
+  --red: #fc6049;
+  --blue: #64c3c7;
+  --purple2: #caa9e8;
+  --green: #dcd587;
+  --orange: #ffa373;
+}
+
+.form-check-input:checked {
+  background-color: var(--yellow) !important;
+  border-color: var(--yellow) !important;
+}
+
+html {
+  /* font size = 14 (0.875rem)⬇️ /
+  / font-size: 0.875rem; /
+
+  / font size = 12.6 (0,7875) ⬇️ */
+  font-size: 0.7875rem;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.topnav {
+  padding-top: 30px;
+}
+
+.logo {
+  width: auto;
+}
+
+.main-logo img {
+  width: 240px;
+}
+
+ol {
+  display: block;
+  padding: 0 0 0 26px !important;
+  list-style: none;
+  overflow: hidden;
+  counter-reset: numList;
+}
+ol li {
+  position: relative;
+}
+
+ol.menu-lateral li::before {
+  counter-increment: numList;
+  content: counter(numList);
+  float: left;
+  position: absolute;
+  left: -26px;
+  text-align: center;
+  line-height: 24px;
+
+  width: 24px;
+  height: 24px;
+  background-color: var(--yellow);
+  color: white;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+ol.menu-confirmacao  li::before {
+  counter-increment: numList;
+  content: counter(numList);
+  float: left;
+  position: absolute;
+  left: -26px;
+  text-align: center;
+  line-height: 34px;
+
+  width: 33px;
+  height: 33px;
+  background-color: white;
+  color: black;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}

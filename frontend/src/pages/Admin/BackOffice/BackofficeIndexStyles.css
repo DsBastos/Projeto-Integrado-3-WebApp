@@ -1,0 +1,15 @@
+.border-yellow{
+  border-bottom: 5px solid var(--yellow);
+  border-radius: 0.25rem;
+}
+
+.border-yellow-bottom{
+  border-bottom: 5px solid var(--yellow);
+  border-radius: 0.25rem;
+}
+
+@include media-breakpoint-up(lg) {
+  .card{
+    min-width:  24rem;
+  }
+}

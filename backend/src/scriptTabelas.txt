@@ -1,0 +1,50 @@
+insert into tipo_servicos (id, descricao) values 
+(1, 'Marketing Digital'),
+(2, 'Design Gráfico'),
+(3, 'Websites e Lojas Online'),
+(4, 'Comunicação e Consultoria');
+
+insert into servicos (tipo_servico_id, descricao, valor) values
+(1, 'Pack Start', 35),
+(1, 'Pack Boost', 50),
+(1, 'Pack Bomb', 100),
+(1, 'Pack Basic', 40),
+(1, 'Pack Premium', 55),
+(1, 'Pack Profissional', 105),
+(1, 'Post por semana - 2', 2),
+(1, 'Post por semana - 3', 3),
+(1, 'Post por semana - 5', 4),
+(1, 'Post por semana - 7', 5),
+(1, 'Stories por semana - 2', 10),
+(1, 'Stories por semana - 3', 11),
+(1, 'Stories por semana - 5', 12),
+(1, 'Stories por semana - 7', 13),
+(1, 'Capa por mês - 1', 25),
+(1, 'Capa por mês - 2', 26),
+(1, 'Consultoria Digital - 1hr', 36),
+(1, 'Consultoria Digital - 2hr', 37),
+(1, 'Copywriting', 89),
+(1, 'Design para publicações', 90),
+(1, 'Relatório mensal', 92),
+(1, 'Planificação editorial', 91);
+
+insert into servicos (tipo_servico_id, descricao, valor) values
+(2, 'Análise da concorrência', 89),
+(2, 'Criação de logótipo', 69),
+(2, 'Paleta de cores', 90),
+(2, 'Manual de normas gráficas', 92),
+(2, 'Slogan para a marca', 92),
+(2, 'Estacionário', 92);
+
+insert into servicos (tipo_servico_id, descricao, valor) values
+(3, 'Landing page', 145),
+(3, 'Website', 145),
+(3, 'Integração', 30),
+(3, 'Com domínio', 70),
+(3, 'Criação de conteudos textuais', 50),
+(3, 'Com alojamento', 60);
+
+insert into servicos (tipo_servico_id, descricao, valor) values
+(4, 'Consultoria de marketing e comunicacao', 14),
+(4, 'Organização de eventos', 140),
+(4, 'Assessoria e criação de conteúdos', 55);

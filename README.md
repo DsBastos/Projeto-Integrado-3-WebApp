@@ -6,9 +6,8 @@
   <a href="https://github.com/dsbastos/Projeto-Integrado-3-WebApp/">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/Projeto-Integrado-3-WebApp">
   </a>
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/dsbastos/Projeto-Integrado-3-WebApp/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/forks/dsbastos/PI3-website?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/forks/dsbastos/Projeto-Integrado-3-WebApp?style=social">
   </a>
   <a href="https://www.linkedin.com/in/daniel-bastos98/">
     <img alt="made by Daniel Bastos" src="https://img.shields.io/badge/made%20by-Daniel%20Bastos-blue">

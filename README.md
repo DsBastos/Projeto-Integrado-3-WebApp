@@ -59,4 +59,4 @@ The following tools were used in the construction of the project:
 ## 🧑🏻 Author
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-bastos98/)](https://www.linkedin.com/in/daniel-bastos98/),
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-b76059215//)](https://www.linkedin.com/in/tiago-almeida-b76059215/), David Almeida, Pedro Furtado, Daniel Mateus, Francisco Ferrand
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-b76059215//)](https://www.linkedin.com/in/tiago-almeida-b76059215/), David Almeida, Pedro Furtado,[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-mateus-02b60723b/)](https://www.linkedin.com/in/daniel-mateus-02b60723b/), Francisco Ferrand

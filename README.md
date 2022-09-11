@@ -56,7 +56,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 🧑🏻 Author
+## 🧑🏻 Authors
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-bastos98/)](https://www.linkedin.com/in/daniel-bastos98/),
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago_Almeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-almeida-b76059215//)](https://www.linkedin.com/in/tiago-almeida-b76059215/),

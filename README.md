@@ -1,13 +1,13 @@
 # Project for the curricular unit "Projeto Integrado 3"
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dsbastos/PI3-website">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dsbastos/PI3-website">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dsbastos/Projeto-Integrado-3-WebApp">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dsbastos/Projeto-Integrado-3-WebApp">
   <a href="https://github.com/dsbastos/PI3-website/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/PI3-website">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/Projeto-Integrado-3-WebApp">
   </a>
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/dsbastos/PI3-website/stargazers">
+   <a href="https://github.com/dsbastos/Projeto-Integrado-3-WebApp/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/forks/dsbastos/PI3-website?style=social">
   </a>
   <a href="https://www.linkedin.com/in/daniel-bastos98/">

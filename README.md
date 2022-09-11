@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dsbastos/Projeto-Integrado-3-WebApp">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dsbastos/Projeto-Integrado-3-WebApp">
-  <a href="https://github.com/dsbastos/PI3-website/">
+  <a href="https://github.com/dsbastos/Projeto-Integrado-3-WebApp/">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/Projeto-Integrado-3-WebApp">
   </a>
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">

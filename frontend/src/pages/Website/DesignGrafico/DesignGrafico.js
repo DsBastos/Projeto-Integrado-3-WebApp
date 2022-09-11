@@ -94,7 +94,7 @@ export function DesignGrafico() {
               <div className="pt-3">
                 <NavBar />
 
-                <div className="card p-3 mt-4 card-custom-border-radius">
+                <div className="card p-3 mt-5 card-custom-border-radius">
                   <div className="card-body">
                     <h5 className="card-title">
                       Para a sua identidade visual, ajude-nos a entender quais
